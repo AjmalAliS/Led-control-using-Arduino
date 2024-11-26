@@ -61,10 +61,6 @@ Weighing Machines </br>
 ![image](https://github.com/user-attachments/assets/63d2854c-e121-4be9-ba1b-853b04781a96)
 
 ## PROGRAM
-![image](https://github.com/user-attachments/assets/525d9197-459a-4982-bf6a-ef698697f15c)
-
-
-## OUTPUT
 ```
 int relayPin=6; 
 #define interval 2000 
@@ -79,6 +75,11 @@ digitalWrite(relayPin, LOW);
 delay(interval); 
 }
 ```
+
+
+## OUTPUT
+![image](https://github.com/user-attachments/assets/33b18803-c29a-4fda-8f7b-7ab3b2aef55b)
+
 
 
 ## RESULT
